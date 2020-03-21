@@ -1,6 +1,6 @@
 ---
 title: "Bankng chustomer churn rate predication"
-excerpt: "<img src='/images/bank.png'>"
+excerpt: "<img src='/images/1.png'>"
 collection: projects
 ---
 
