@@ -10,4 +10,4 @@ I start by removing punctuation characters and stop words. And the trained three
 
 Lastly, I applied the model on the test dataset and resulting in accuracy around 77%.
 
-[More information here](https://diwu437.github.io/files/tweetier_intro.docx)
+[More information here](https://diwu437.github.io/files/text classification.pdf)
