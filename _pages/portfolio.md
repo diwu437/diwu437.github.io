@@ -5,7 +5,7 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-[Time Series With Google Stock](https://github.com/diwu437/diwu-github.io/blob/master/TimeSeries_with_Google_Stock.ipynb)
+[Time series with google stock](https://github.com/diwu437/diwu-github.io/blob/master/TimeSeries_with_Google_Stock.ipynb)
 
 In this project, my goal is to predict future google stock closing price based on past time series data. 
 
@@ -19,7 +19,15 @@ Finally, I did hyperparameter tuning for ARIMA model via grid-search to find the
 
 --- 
 
-[Bank Customer Churn Prediction](https://github.com/diwu437/diwu-github.io/blob/master/Bank_customer_churn_prediction.ipynb)
+[SF Crime analysis with Spark](https://diwu437.github.io/files/SF_Crime analysis with Spark.html)
+
+The goal of this project is to analysis the crime rate of San Francisco and gain insights on policy and travel suggestion. I have built data processing pipeline based on Spark SQL for big data online analytical processing. Explored and visualized the variation of spatial distribution of incidents over time. 
+
+[![](/images/SF CRIME.png)](https://diwu437.github.io/files/SF_Crime analysis with Spark.html)
+
+--- 
+
+[Bank customer churn prediction](https://github.com/diwu437/diwu-github.io/blob/master/Bank_customer_churn_prediction.ipynb)
 
 In this project, I use supervised learning models to identify customers who are likely to churn in the future. Furthermore, I will analyze top factors that influence user retention. 
 I have transformed gender and geography varibles to binary varibles to enhance model performance. And then i have standardized features for the same purpose.
@@ -50,7 +58,7 @@ In this project, we are supposed to do the profit maximization with multi-segmen
 
 ---
 
-[Tweetier](https://diwu437.github.io/files/text classification.pdf)
+[Predicting negative comments from tweets](https://diwu437.github.io/files/text classification.pdf)
 
 
 The goal of final project is using the 'complaint1700' and 'non-complaint1700' file to train a robust classification model, which can be used afterwards to test if a new tweet is negative and help the company to separate the non-negative tweets. 
@@ -65,7 +73,12 @@ Lastly, I applied the model on the test dataset and resulting in accuracy around
 
 ---
 
-[Amazon Prime Movie View Time](https://github.com/diwu437/diwu-github.io/blob/master/%E2%80%9CAmazon_prime_Movie_View_Time_Predication_ipynb%E2%80%9D.ipynb)
+[Amazon prime movie view time](https://github.com/diwu437/diwu-github.io/blob/master/%E2%80%9CAmazon_prime_Movie_View_Time_Predication_ipynb%E2%80%9D.ipynb)
 
+In this project, I leveraged on machine learning model to make predication on view time of Amazon prime movie.
+
+I have performed exploratory data analysis and preprocessed raw sales and product data by handling missing values, encoding categorical features and scaling features. 
+
+Selected best model based on predication accuracy and identified the key factors that affect view time performance.  
 
 [![](/images/amazon1.png)](https://github.com/diwu437/diwu-github.io/blob/master/%E2%80%9CAmazon_prime_Movie_View_Time_Predication_ipynb%E2%80%9D.ipynb)
