@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Di Wu's Blog"
+title                    : "Di Wu"
 title_separator          : "-"
 name                     : &name "diwu437"
 description              : &description ""
@@ -115,6 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+
 
 
 # Reading Files
