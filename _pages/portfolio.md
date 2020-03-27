@@ -5,6 +5,8 @@ permalink: /portfolio/
 author_profile: true
 ---
 
+### Projects with Python
+
 [Time series with google stock](https://github.com/diwu437/diwu-github.io/blob/master/TimeSeries_with_Google_Stock.ipynb)
 
 In this project, my goal is to predict future google stock closing price based on past time series data. 
@@ -16,13 +18,6 @@ Finally, I did hyperparameter tuning for ARIMA model via grid-search to find the
 
 --- 
 
-[SF Crime analysis with Spark](https://diwu437.github.io/files/SF_Crime analysis with Spark.html)
-
-The goal of this project is to analysis the crime rate of San Francisco and gain insights on policy and travel suggestion. I have built data processing pipeline based on Spark SQL for big data online analytical processing. Explored and visualized the variation of spatial distribution of incidents over time. 
-
-[![](/images/SF CRIME.png)](https://diwu437.github.io/files/SF_Crime analysis with Spark.html)
-
---- 
 
 [Bank customer churn prediction](https://github.com/diwu437/diwu-github.io/blob/master/Bank_customer_churn_prediction.ipynb)
 
@@ -46,15 +41,6 @@ For the second goal, I used Latent Dirichlet Allocation model to find latent top
 
 ---
 
-[Lanuching a new product with kiwi](https://diwu437.github.io/files/Lanuching a new product with kiwi.pdf)
-
-In this project, we are supposed to do the profit maximization with multi-segment and multi-product for the sake of analyzing the best pricing strategy for the new product “Kiwi Bubbles”. Under the assumption that the unit costs are all $0.5 and market size is 1000 consumers, the data set we had records the choices of soft drink of 359 consumers over the course of 3 years. More details about how we manipulated the logit model are as follows.
-
-[![](/images/profit with segmentation.png)](https://diwu437.github.io/files/Lanuching a new product with kiwi.pdf)
-
-
----
-
 [Predicting negative comments from tweets](https://diwu437.github.io/files/text classification.pdf)
 
 
@@ -75,3 +61,23 @@ I have performed exploratory data analysis and preprocessed raw sales and produc
 Selected best model based on predication accuracy and identified the key factors that affect view time performance.  
 
 [![](/images/amazon1.png)](https://github.com/diwu437/diwu-github.io/blob/master/%E2%80%9CAmazon_prime_Movie_View_Time_Predication_ipynb%E2%80%9D.ipynb)
+
+--- 
+
+### Projects with Spark
+
+[SF Crime analysis with Spark](https://diwu437.github.io/files/SF_Crime analysis with Spark.html)
+
+The goal of this project is to analysis the crime rate of San Francisco and gain insights on policy and travel suggestion. I have built data processing pipeline based on Spark SQL for big data online analytical processing. Explored and visualized the variation of spatial distribution of incidents over time. 
+
+[![](/images/SF CRIME.png)](https://diwu437.github.io/files/SF_Crime analysis with Spark.html)
+
+---
+
+### Projects with R
+
+[Lanuching a new product with kiwi](https://diwu437.github.io/files/Lanuching a new product with kiwi.pdf)
+
+In this project, we are supposed to do the profit maximization with multi-segment and multi-product for the sake of analyzing the best pricing strategy for the new product “Kiwi Bubbles”. Under the assumption that the unit costs are all $0.5 and market size is 1000 consumers, the data set we had records the choices of soft drink of 359 consumers over the course of 3 years. More details about how we manipulated the logit model are as follows.
+
+[![](/images/profit with segmentation.png)](https://diwu437.github.io/files/Lanuching a new product with kiwi.pdf)
