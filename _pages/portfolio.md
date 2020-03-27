@@ -8,11 +8,8 @@ author_profile: true
 [Time series with google stock](https://github.com/diwu437/diwu-github.io/blob/master/TimeSeries_with_Google_Stock.ipynb)
 
 In this project, my goal is to predict future google stock closing price based on past time series data. 
-
 In order to transform the data into a stationary process which makes the it predictable, I have implemented methods such as de-trending and de-seasoning. 
-
 Next, I have built three time-series model including AR, MA and ARIMA and selected ARIMA as the final predication model based on best residual fitting performance. 
-
 Finally, I did hyperparameter tuning for ARIMA model via grid-search to find the optimize p and q. Adding back the predication value as well as trend and seasoning back to the original data to get the final predication. 
 
 [![](/images/error fitting.png)](https://github.com/diwu437/diwu-github.io/blob/master/TimeSeries_with_Google_Stock.ipynb)
@@ -62,9 +59,7 @@ In this project, we are supposed to do the profit maximization with multi-segmen
 
 
 The goal of final project is using the 'complaint1700' and 'non-complaint1700' file to train a robust classification model, which can be used afterwards to test if a new tweet is negative and help the company to separate the non-negative tweets. 
-
 I start by removing punctuation characters and stop words. And the trained three models and selected Native Bayes model which yields the highest predicting accuracy.  
-
 Lastly, I applied the model on the test dataset and resulting in accuracy around 77%.
 
 
@@ -76,9 +71,7 @@ Lastly, I applied the model on the test dataset and resulting in accuracy around
 [Amazon prime movie view time](https://github.com/diwu437/diwu-github.io/blob/master/%E2%80%9CAmazon_prime_Movie_View_Time_Predication_ipynb%E2%80%9D.ipynb)
 
 In this project, I leveraged on machine learning model to make predication on view time of Amazon prime movie.
-
 I have performed exploratory data analysis and preprocessed raw sales and product data by handling missing values, encoding categorical features and scaling features. 
-
 Selected best model based on predication accuracy and identified the key factors that affect view time performance.  
 
 [![](/images/amazon1.png)](https://github.com/diwu437/diwu-github.io/blob/master/%E2%80%9CAmazon_prime_Movie_View_Time_Predication_ipynb%E2%80%9D.ipynb)
