@@ -21,16 +21,19 @@ At the end of day, all the efforts are worth it!
 
 ![](/images/basketball.jpg)
 
+--- 
 
 # Hobbies
 ### Traveling 
 Besides sports, I also like to travel around the world. Over the past years, I have been to a lot of amazing places that make a deep impression on me. The distant and dreamy snow mountain in Switzerland; the boundless and superb grassland in Mongolia; the brilliantly blue and unfrozen Baikal in Russian; the tasty and juicy fruits in Bali, everything was unique and unforgettable. Cannot wait to explore more in the future!
 
 ![](/images/travel.jpg)
+--- 
 
 ### Sports
 I like to play sports after school and work. Like most kids in high school, being good at basketball has always been my goal throughout my four years of high school. I used to play for my high school basketball team for two years as well as the volleyball team for 1 year. I also like to play soccer for fun.   
 
+--- 
 
 ### Bodybuilding
 
