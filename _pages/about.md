@@ -19,7 +19,7 @@ During my free time, I have applied my skill set to several internships. I was w
 
 At the end of day, all the efforts are worth it!
 
-![](/images/basketball.jpg)
+
 
 --- 
 
@@ -33,12 +33,13 @@ Besides sports, I also like to travel around the world. Over the past years, I h
 ### Sports
 I like to play sports after school and work. Like most kids in high school, being good at basketball has always been my goal throughout my four years of high school. I used to play for my high school basketball team for two years as well as the volleyball team for 1 year. I also like to play soccer for fun.   
 
+![](/images/basketball.jpg){:width="462"}
 --- 
 
 ### Bodybuilding
 
 First two years of college had almost put on 30 pounds on my belly. One day, I decide to start change my life and start lifting weights. However, as I become better and better, the satisfaction of making each small progress on my body makes me fall in love with it. It has been two years from now since I start to learn about bodybuilding, and it gradually becomes part of my life. It has a huge positive impact on my lifestyle both physically and mentally. Not only grants me a better body and healthier lifestyle, it also makes me more self-discipline and unremitting. 
 
-![](/images/bodybuilding.jpg)
+![](/images/bodybuilding.jpg){:width="462"}
 
 Go check out [my projects](https://diwu437.github.io/portfolio/) and feel free to contact me!
