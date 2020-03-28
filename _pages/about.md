@@ -25,7 +25,8 @@ At the end of day, all the efforts are worth it!
 
 # Hobbies
 ### Traveling 
-Besides sports, I also like to travel around the world. Over the past years, I have been to a lot of amazing places that make a deep impression on me. The distant and dreamy snow mountain in Switzerland; the boundless and superb grassland in Mongolia; the brilliantly blue and unfrozen Baikal in Russian; the tasty and juicy fruits in Bali, everything was unique and unforgettable. Cannot wait to explore more in the future!
+
+Traveling has always been my favorite way to enlarge vision and relax. Over the past years, I have been to a lot of amazing places that make a deep impression on me. The distant and dreamy snow mountain in Switzerland; the boundless and superb grassland in Mongolia; the brilliantly blue and unfrozen Baikal in Russian; the tasty and juicy fruits in Bali, everything was unique and unforgettable. Cannot wait to explore more in the future!
 
 ![](/images/travel.jpg)
 --- 
